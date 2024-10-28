@@ -35,7 +35,7 @@ Before you begin, ensure you have:
 
 ```bash
 # Clone the repository
-git clone lyledavids/genmint
+git clone https://github.com/lyledavids/genmint.git
 
 # Navigate to project directory
 cd genmint
